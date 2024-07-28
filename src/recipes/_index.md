@@ -1,11 +1,11 @@
 ---
 _schema: page
-permalink: /
+permalink: /recipes/
 title: Recipes
 layout: layouts/page.html
 eleventyNavigation:
-  key: Home
-  order: 0
+  key: Recipes
+  order: 1
 tags: page
 SEO_options:
   title:
@@ -14,4 +14,6 @@ SEO_options:
 draft: false
 ---
 
-This is a recipe site
+Well met, traveller.
+
+Care to browse my recipes? 👉👈

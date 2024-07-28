@@ -4,6 +4,6 @@ layout: layouts/page.html
 eleventyNavigation:
   key:
   order:
-tags:  
+tags:
 draft: false
 ---
