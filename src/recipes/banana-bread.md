@@ -3,8 +3,8 @@ _schema: default
 title: Banana Bread
 layout: layouts/page.html
 eleventyNavigation:
-  key:
-  order:
+  key: Banana Bread
+  order: '2'
 tags: page
 draft: false
 ---

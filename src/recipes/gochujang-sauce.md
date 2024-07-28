@@ -3,8 +3,8 @@ _schema: default
 title: Gochujang Sauce
 layout: layouts/page.html
 eleventyNavigation:
-  key:
-  order:
+  key: Gochujang Sauce
+  order: '3'
 tags: page
 draft: false
 ---
