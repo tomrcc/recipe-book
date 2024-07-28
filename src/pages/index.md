@@ -1,7 +1,7 @@
 ---
 _schema: page
 permalink: /
-title: Recipes
+title: Recipe Book
 layout: layouts/page.html
 eleventyNavigation:
   key: Home
@@ -14,5 +14,3 @@ SEO_options:
 draft: false
 ---
 Well met, traveller.
-
-&nbsp;
