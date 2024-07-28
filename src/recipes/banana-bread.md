@@ -5,7 +5,7 @@ layout: layouts/page.html
 eleventyNavigation:
   key: Banana Bread
   order: '2'
-tags: page
+tags: Sweet
 draft: false
 ---
 ## Ingredients

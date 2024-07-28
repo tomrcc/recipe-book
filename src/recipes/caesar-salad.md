@@ -5,7 +5,7 @@ layout: layouts/page.html
 eleventyNavigation:
   key: Caesar Salad Dressing
   order: '4'
-tags: page
+tags: Savoury
 draft: false
 ---
 ## Ingredients

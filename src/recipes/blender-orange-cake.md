@@ -5,7 +5,7 @@ layout: layouts/page.html
 eleventyNavigation:
   key: Blender Orange Cake
   order: '5'
-tags: page
+tags: Sweet
 draft: false
 ---
 ## Ingredients

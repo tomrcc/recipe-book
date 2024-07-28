@@ -5,10 +5,10 @@ layout: layouts/page.html
 eleventyNavigation:
   key: Gochujang Sauce
   order: '3'
-tags: page
+tags: Savoury
 draft: false
 ---
-## <br>Ingredients
+## Ingredients
 
 * 2 teaspoons vegetable oil
 * 3 garlic cloves, minced

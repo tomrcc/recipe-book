@@ -6,7 +6,7 @@ layout: layouts/page.html
 eleventyNavigation:
   key: Cookies
   order: 1
-tags: page
+tags: Sweet
 SEO_options:
   title:
   image:
