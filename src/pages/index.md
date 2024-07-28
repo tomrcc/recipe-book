@@ -1,7 +1,7 @@
 ---
 _schema: page
 permalink: /
-title: Welcome 👋
+title: Recipes
 layout: layouts/page.html
 eleventyNavigation:
   key: Home
