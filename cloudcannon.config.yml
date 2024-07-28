@@ -1190,7 +1190,7 @@ paths:
   collections: recipes
   includes: _includes
   layouts: _includes/layouts
-  uploads: assets/images/
+  uploads: assets/images
 
 # Lets you control the look and behaviour of the Source Editor.
 source_editor:
