@@ -38,4 +38,6 @@ draft: false
 8. Bake for 10-12 minutes, until the edges have started to barely brown.
 9. Cool completely before serving.
 
+**Source:** <a href="https://tasty.co/recipe/the-best-chewy-chocolate-chip-cookies" title="Tasty.co" target="_blank" rel="noopener">Tasty.co</a>
+
 &nbsp;
