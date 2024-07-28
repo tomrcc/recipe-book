@@ -1,8 +1,5 @@
 side_nav_title: Recipe Book
 nav_links:
-  - link_title: GitHub
-    link_url: https://github.com/tomrcc/recipes
-    link_label: 1.0.0
-    link_icon_path: /assets/images/github.svg
 logo:
-  logo_heading: Recipe Book
+  logo_image: /assets/images/logos/book-open-solid.svg
+  logo_image_dark: /assets/images/logos/book-open-solid-white.svg
